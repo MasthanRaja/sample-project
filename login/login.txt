@@ -1,2 +1,0 @@
-implementing login feature
-designed the ui html
